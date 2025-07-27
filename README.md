@@ -23,3 +23,7 @@ Clone or download this repository, open a terminal inside the folder, then run:
 
 ```bash
 python aes_from_scratch.py encrypt "Message123456789"
+
+## 📄 License
+MIT License — free to use for educational purposes.
+
